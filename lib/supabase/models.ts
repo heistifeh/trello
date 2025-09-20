@@ -14,6 +14,7 @@ export interface Column {
   title: string;
   sort_order: number;
   created_at: string;
+  
 }
 
 export interface Task {
